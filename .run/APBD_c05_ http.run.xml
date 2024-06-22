@@ -1,6 +1,6 @@
 ﻿<component name="ProjectRunConfigurationManager">
   <configuration default="false" name="APBD_c05: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
-    <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/APBD_c05/APBD_c05.csproj" />
+    <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/apbd05/apbd05.csproj" />
     <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
     <option name="LAUNCH_PROFILE_NAME" value="http" />
     <option name="USE_EXTERNAL_CONSOLE" value="0" />
